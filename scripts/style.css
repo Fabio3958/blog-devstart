@@ -13,3 +13,31 @@ body {
     border: solid #c4c4c4 0.2px;
     justify-content: center;
 }
+
+.retangulo1 {
+    padding: 5px;
+    background-color: #646464;
+}
+
+.retangulo2 {
+    padding: 5px;
+    background-color: #9F9F9F;
+}
+
+.navega {
+    padding: 10px;
+    padding-right: 100px;
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.navega a {
+    color: #7A7A7A;
+    transition: 0.5s;
+}
+
+.navega a:hover {
+    color: #202020;
+}
