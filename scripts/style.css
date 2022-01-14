@@ -69,3 +69,12 @@ body {
     margin-top: 10px;
     line-height: 1.5;
 }
+
+footer {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+    padding: 10px;
+    background-color: #CACACA;
+}
