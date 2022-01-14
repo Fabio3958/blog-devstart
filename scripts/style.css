@@ -8,8 +8,8 @@
 
 body {
     background-color: #E1E1E1;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
     border: solid #c4c4c4 0.2px;
     justify-content: center;
 }
@@ -40,4 +40,32 @@ body {
 
 .navega a:hover {
     color: #202020;
+}
+
+.tituloPrincipal {
+    padding: 50px;
+}
+
+.noticia {
+    margin: 10px 50px 30px 50px;
+    border-bottom: solid #C4C4C4 0.2px;
+}
+
+.spans {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.spanData {
+    padding-right: 40px;
+    border-right: solid #B6B6B6 1px;
+}
+
+.spanAutor {
+    padding-left: 40px;
+}
+
+.noticia p {
+    margin-top: 10px;
+    line-height: 1.5;
 }
